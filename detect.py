@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 import sys
 from os import listdir
 from os.path import join
